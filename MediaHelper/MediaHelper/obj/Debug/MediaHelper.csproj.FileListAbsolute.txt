@@ -1,0 +1,15 @@
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\bin\Debug\MediaHelper.exe.config
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\bin\Debug\MediaHelper.exe
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\bin\Debug\MediaHelper.pdb
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.csprojAssemblyReference.cache
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.Form1.resources
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.Properties.Resources.resources
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.csproj.GenerateResource.cache
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.csproj.CoreCompileInputs.cache
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.exe
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.pdb
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\Interop.WMPLib.dll
+C:\Users\SunRay\source\repos\MediaHelper\MediaHelper\obj\Debug\MediaHelper.csproj.ResolveComReference.cache
